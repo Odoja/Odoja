@@ -1,7 +1,6 @@
 
 ## Hi, I'm Emil
 
-## About me
 A third-year web development student working on my bachelors at Linnaeus University, Sweden.<br>
  
 ## 🛠️ Tech Stack
