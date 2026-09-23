@@ -2,7 +2,7 @@
 # Hi, I'm Emil!
 
 - A third-year web development student working on my bachelors.
-- Native speaker of Swedish, Finnish, and English
+- Fluent in Swedish, Finnish, and English
 
 ---
  
