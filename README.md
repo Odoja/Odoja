@@ -1,9 +1,12 @@
 
-## Hi, I'm Emil
+# Hi, I'm Emil!
 
-A third-year web development student working on my bachelors at Linnaeus University, Sweden.<br>
+- A third-year web development student working on my bachelors.
+- Native speaker of Swedish, Finnish, and English
+
+---
  
-## 🛠️ Tech Stack
+## Tech Stack I've worked with and am learning
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -11,7 +14,7 @@ A third-year web development student working on my bachelors at Linnaeus Univers
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css&logoColor=1572B6)
 
 #### Backend
 ![REST API](https://img.shields.io/badge/REST_API-20232A?style=for-the-badge&logo=fastapi&logoColor=00A98F)
@@ -36,19 +39,16 @@ A third-year web development student working on my bachelors at Linnaeus Univers
 ![GitLab](https://img.shields.io/badge/GitLab-20232A?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
 ![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-## 🌱 Currently Learning
+## Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-
-## 📌 Featured Projects
-
----
- 
 ## 🔗 Connect
- 
-- LinkedIn: www.linkedin.com/in/emil-ågren-1090a4374
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2db4f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-%C3%A5gren-1090a4374/)
+
+
+
 
